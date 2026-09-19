@@ -1,0 +1,78 @@
+{
+  "publication_candidate": "HSIE-PUB-CAND-001 v0.1.0",
+  "proof_release": "HSIE-PROOF-REL-001 v0.1.0",
+  "proof_release_sha256": "e61736169da15cd7cc28f024a2ad577ddf242d61eb38bbcb9cdd860c75de69df",
+  "reproduction_kit_sha256": "dcf8491595c92c73706b20bbabdc61edc4661f23d24bc91441918f36181ce643",
+  "phase8_state": "HOLD \u2014 PUBLICATION-READY / PUBLIC RECORD GATE OPEN",
+  "public_record_established": false,
+  "public_repository": null,
+  "persistent_identifier": null,
+  "website_url": null,
+  "files": [
+    {
+      "file": "CLAIM_CEILING.md",
+      "size_bytes": 1869,
+      "sha256": "2293856f81a0b99ea381c61e8927789a9a3ccc01c71fe285c2d3c59baeea2a75"
+    },
+    {
+      "file": "EVIDENCE_REPORT.md",
+      "size_bytes": 1763,
+      "sha256": "234441322095c8b5e2170c55c64f5f58de03d2e110887548df3b489a315681c1"
+    },
+    {
+      "file": "FOUNDATION_CUSTODY_STATUS.md",
+      "size_bytes": 1755,
+      "sha256": "dcec0913dd55581592ccdf164798629a27dbf24892d47cb81064b2b80c5edc02"
+    },
+    {
+      "file": "HSIE_ANAT_PHASE6_REPRO_KIT_v1.0.0.zip",
+      "size_bytes": 106401,
+      "sha256": "dcf8491595c92c73706b20bbabdc61edc4661f23d24bc91441918f36181ce643"
+    },
+    {
+      "file": "HSIE_ANAT_PHASE8_PUBLICATION_STATUS_v1.0.0.md",
+      "size_bytes": 1779,
+      "sha256": "1899373f2dff5b77ef43bda27df0e02707085d5d647d8ed847062c2ef580d94e"
+    },
+    {
+      "file": "OPEN_DEPENDENCIES.md",
+      "size_bytes": 1345,
+      "sha256": "4c09cef41e82fe3906a29955e6702fa9648f90c88f88fb8d00d2aa0f5fa8c2d3"
+    },
+    {
+      "file": "PHASE7_CLOSEOUT.md",
+      "size_bytes": 1725,
+      "sha256": "e70f5727df1df99e6675acac17d88a43e2cbdd4174eb23df674f6e1fcd018035"
+    },
+    {
+      "file": "PHASE_CHAIN.md",
+      "size_bytes": 1104,
+      "sha256": "5723d67f7a2f756580b2c22a9550f543a96c603c2137d36954e50eed3f3bd7eb"
+    },
+    {
+      "file": "PUBLICATION_RECEIPT_TEMPLATE.json",
+      "size_bytes": 603,
+      "sha256": "4a035881ced78070c6b665ec5bf7de84bb52b85c7085c78199f01eeee40112c3"
+    },
+    {
+      "file": "README.md",
+      "size_bytes": 3257,
+      "sha256": "448ad7a82fa5bce6485a74349319a2502c316f43eb3df91592b8baa949cde1cd"
+    },
+    {
+      "file": "RELEASE_NOTES.md",
+      "size_bytes": 465,
+      "sha256": "f4930f51ab44df1f4f8e921ddbef98f12567535c907faa5935b27257db7a963c"
+    },
+    {
+      "file": "REPRODUCE.md",
+      "size_bytes": 1819,
+      "sha256": "1999e7dfdc1b231e6f1f61451c6b5c8cffe75481900278bb52e1938188d03369"
+    },
+    {
+      "file": "index.html",
+      "size_bytes": 2258,
+      "sha256": "a42389bb2dde731bd630b87a9e394913ec1be8858e03b1f37dab096c0b30b97d"
+    }
+  ]
+}

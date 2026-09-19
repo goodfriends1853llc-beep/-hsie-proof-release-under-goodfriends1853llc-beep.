@@ -1,0 +1,15 @@
+{
+  "receipt_id": "HSIE-ANAT-P8-PUB-001",
+  "release": "HSIE-PROOF-REL-001 v0.1.0",
+  "publication_status": "NOT_PUBLISHED",
+  "public_repository": null,
+  "public_release_or_commit_identifier": null,
+  "persistent_public_url": null,
+  "website_url": null,
+  "published_proof_release_sha256": "e61736169da15cd7cc28f024a2ad577ddf242d61eb38bbcb9cdd860c75de69df",
+  "published_reproduction_kit_sha256": "dcf8491595c92c73706b20bbabdc61edc4661f23d24bc91441918f36181ce643",
+  "published_at": null,
+  "verification_after_publish": "NOT_PERFORMED",
+  "phase8_gate": "PUBLIC_RECORD",
+  "phase8_complete": false
+}
