@@ -5,12 +5,21 @@
 **Proof Release SHA-256:** `e61736169da15cd7cc28f024a2ad577ddf242d61eb38bbcb9cdd860c75de69df`  
 **Reproduction Kit SHA-256:** `dcf8491595c92c73706b20bbabdc61edc4661f23d24bc91441918f36181ce643`
 
+## What this is
+
+**HSIE** is the governed-intelligence ecosystem in which **Tommie Bellamy's Human Systems Architecture** work is being developed and tested.
+
+**Tommie Bellamy — Human Systems Architect**  
+Human Systems Architecture focuses on structuring the environment, authority, evidence, and operating boundaries around AI-assisted systems.
+
+This repository is the public proof anchor for the HSIE ANAT evidence chain. It exists so a reader can inspect versioned records, hashes, implementation/test evidence, reproduction instructions, and preserved validation limits.
+
 ## Public anchors
 
+- Proof site: https://goodfriends1853llc-beep.github.io/hsie-proof-release/
 - Repository: https://github.com/goodfriends1853llc-beep/hsie-proof-release
 - Immutable publication commit: https://github.com/goodfriends1853llc-beep/hsie-proof-release/commit/58b5d36caec2b8097f4bb4de3bd645e3ca1e6f03
 - Immutable release: https://github.com/goodfriends1853llc-beep/hsie-proof-release/releases/tag/hsie-proof-rel-001-v0.1.0
-- Public proof site: https://goodfriends1853llc-beep.github.io/hsie-proof-release/
 
 ## Evidence chain
 
@@ -36,10 +45,22 @@
 
 Historical pre-publication artifacts remain preserved in the immutable publication commit. The existing `PUBLICATION_MANIFEST.json` and `PUBLICATION_RECEIPT_TEMPLATE.json` are candidate/template artifacts and are not the current closeout state.
 
+## Findability layer
+
+The current branch also provides:
+
+- `index.html` — public proof page with human-readable identity and machine-readable metadata;
+- `robots.txt` — crawler permissions and sitemap pointer;
+- `sitemap.xml` — canonical proof-site URL;
+- `IDENTITY.json` — machine-readable identity bridge for HSIE / Human Systems Architecture / creator context.
+
+These files improve discoverability only. They do not alter the immutable Proof Release or its evidence state.
+
 ## Claim ceiling
 
 Publication does not upgrade evidence.
 
 Independent verification ≠ internal repeatability.  
 Public record ≠ field validation.  
-Immutable release ≠ production deployment.
+Immutable release ≠ production deployment.  
+Findability ≠ validation.

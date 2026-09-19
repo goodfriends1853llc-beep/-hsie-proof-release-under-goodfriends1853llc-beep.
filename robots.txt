@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://goodfriends1853llc-beep.github.io/hsie-proof-release/sitemap.xml

@@ -1,0 +1,23 @@
+{
+  "name": "HSIE Proof Release",
+  "release": "HSIE-PROOF-REL-001 v0.1.0",
+  "site": "https://goodfriends1853llc-beep.github.io/hsie-proof-release/",
+  "repository": "https://github.com/goodfriends1853llc-beep/hsie-proof-release",
+  "immutable_release": "https://github.com/goodfriends1853llc-beep/hsie-proof-release/releases/tag/hsie-proof-rel-001-v0.1.0",
+  "creator": {
+    "name": "Tommie Bellamy",
+    "public_title": "Human Systems Architect"
+  },
+  "context": {
+    "hsie": "Governed-intelligence ecosystem in which Tommie Bellamy's Human Systems Architecture work is being developed and tested.",
+    "human_systems_architecture": "Work focused on structuring the environment, authority, evidence, and operating boundaries around AI-assisted systems."
+  },
+  "proof_release_sha256": "e61736169da15cd7cc28f024a2ad577ddf242d61eb38bbcb9cdd860c75de69df",
+  "reproduction_kit_sha256": "dcf8491595c92c73706b20bbabdc61edc4661f23d24bc91441918f36181ce643",
+  "claim_ceiling": [
+    "findability != validation",
+    "public record != independent validation",
+    "immutable release != field validation",
+    "publication != production deployment"
+  ]
+}
