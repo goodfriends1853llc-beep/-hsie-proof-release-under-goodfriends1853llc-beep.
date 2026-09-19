@@ -1,0 +1,18 @@
+{
+  "artifact_id": "HSIE-ANAT-P8-PUBLIC-CONTROL-RECONCILIATION-001",
+  "purpose": "Reconcile current main-branch public control representation after verified immutable publication.",
+  "does_not_modify_immutable_release": true,
+  "historical_publication_commit": "58b5d36caec2b8097f4bb4de3bd645e3ca1e6f03",
+  "immutable_release_tag": "hsie-proof-rel-001-v0.1.0",
+  "corrections": [
+    "README current state",
+    "Phase 8 status current state with historical preservation note",
+    "actual publication receipt",
+    "Phase 8 closeout",
+    "rendered site status"
+  ],
+  "historical_candidate_files_left_in_place": [
+    "PUBLICATION_MANIFEST.json",
+    "PUBLICATION_RECEIPT_TEMPLATE.json"
+  ]
+}

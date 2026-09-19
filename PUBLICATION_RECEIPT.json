@@ -1,0 +1,28 @@
+{
+  "receipt_id": "HSIE-ANAT-P8-PUB-001",
+  "release": "HSIE-PROOF-REL-001 v0.1.0",
+  "publication_status": "PUBLISHED_IMMUTABLE_VERIFIED",
+  "public_repository": "https://github.com/goodfriends1853llc-beep/hsie-proof-release",
+  "publication_commit_sha": "58b5d36caec2b8097f4bb4de3bd645e3ca1e6f03",
+  "publication_commit_url": "https://github.com/goodfriends1853llc-beep/hsie-proof-release/commit/58b5d36caec2b8097f4bb4de3bd645e3ca1e6f03",
+  "immutable_release_tag": "hsie-proof-rel-001-v0.1.0",
+  "immutable_release_url": "https://github.com/goodfriends1853llc-beep/hsie-proof-release/releases/tag/hsie-proof-rel-001-v0.1.0",
+  "immutable_release": true,
+  "website_url": "https://goodfriends1853llc-beep.github.io/hsie-proof-release/",
+  "canonical_asset_name": "HSIE_PROOF_RELEASE_v0.1.0.zip",
+  "canonical_asset_url": "https://github.com/goodfriends1853llc-beep/hsie-proof-release/releases/download/hsie-proof-rel-001-v0.1.0/HSIE_PROOF_RELEASE_v0.1.0.zip",
+  "published_proof_release_sha256": "e61736169da15cd7cc28f024a2ad577ddf242d61eb38bbcb9cdd860c75de69df",
+  "published_reproduction_kit_sha256": "dcf8491595c92c73706b20bbabdc61edc4661f23d24bc91441918f36181ce643",
+  "published_at_utc": "2026-09-19T02:00:28Z",
+  "post_publication_verification": {
+    "repository_public": true,
+    "publication_files_sha256_match": "15/15",
+    "immutable_release_verified": true,
+    "release_asset_sha256_match": true,
+    "tag_points_to_publication_commit": true,
+    "github_pages_enabled": true
+  },
+  "phase8_gate": "PUBLIC_RECORD",
+  "phase8_complete": true,
+  "claim_ceiling_preserved": true
+}
